@@ -30,14 +30,11 @@ Full-Stack Developer | Streaming | Crypto | Gaming
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 
-## Experience & Focus
+## Tech Stack
 
-![Full Stack](https://img.shields.io/badge/Full--Stack-Development-blue)
-![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-black)
-![High Performance](https://img.shields.io/badge/High--Performance-Apps-green)
-![API Design](https://img.shields.io/badge/API-Design-orange)
-![Cloud Native](https://img.shields.io/badge/Cloud-Native-blue)
-![Open Source](https://img.shields.io/badge/Open-Source-lightgrey)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
 ---
 
